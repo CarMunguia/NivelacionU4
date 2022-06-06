@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656677622558",
+    "project_id": "nivelacionu4-968b8",
+    "storage_bucket": "nivelacionu4-968b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656677622558:android:343132bf0f7ce64d9faf0f",
+        "android_client_info": {
+          "package_name": "com.example.u4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656677622558-e2ce7ipqccrg8iuq4gr9ivs8fun923ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADmqohdRu1VL_ncsYwwJEa1-7wE64Xqmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656677622558-e2ce7ipqccrg8iuq4gr9ivs8fun923ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

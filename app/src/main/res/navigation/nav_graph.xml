@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/listafavoritas">
+    <fragment
+        android:id="@+id/listafavoritas"
+        android:name="com.example.nivelacionu4.Listafavoritas"
+        android:label="fragment_listafavoritas"
+        tools:layout="@layout/fragment_listafavoritas" />
+    <fragment
+        android:id="@+id/songss"
+        android:name="com.example.nivelacionu4.Songss"
+        android:label="fragment_songss"
+        tools:layout="@layout/fragment_songss" />
+</navigation>
